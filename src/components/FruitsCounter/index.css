@@ -1,0 +1,49 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.container {
+  background-color: #ffd569;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container2 {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+span {
+  color: #ffd569;
+}
+
+h1 {
+  font-size: large;
+  font-weight: 600;
+  font-family: 'roboto';
+}
+
+button {
+  color: white;
+  background-color: #007bff;
+  padding: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+
+img {
+  height: 250px;
+  width: 200px;
+}
+
+.img-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.below-container{
+    display: flex;
+}
